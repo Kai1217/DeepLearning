@@ -1,3 +1,7 @@
+"
+This is an application made for my learning of creating deep learning models in the Python deep learning framework
+called Keras.
+"
 import keras
 import tensorflow as tf
 
