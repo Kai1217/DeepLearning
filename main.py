@@ -24,6 +24,11 @@ furnished to do so, subject to the following conditions:
 
 
 
+Deep Learning
+        By Kai Matolat
+
+
+
 
 This is an application made for my learning of creating deep learning models in the Python deep learning framework
 called Keras.
